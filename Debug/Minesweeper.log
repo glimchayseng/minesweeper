@@ -1,0 +1,7 @@
+﻿  mineSweeper.cpp
+c:\users\gavin\source\repos\minesweeper\minesweeper\minesweeper.cpp(50): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\gavin\source\repos\minesweeper\minesweeper\minesweeper.cpp(150): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  main.cpp
+  Generating Code...
+  Minesweeper.vcxproj -> C:\Users\Gavin\source\repos\Minesweeper\Debug\Minesweeper.exe
+  Minesweeper.vcxproj -> C:\Users\Gavin\source\repos\Minesweeper\Debug\Minesweeper.pdb (Partial PDB)
